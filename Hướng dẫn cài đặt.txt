@@ -1,0 +1,5 @@
+-Tài khoản admin:
+tk: hoangyen
+mk: 123456
+-link admin:  http://localhost/WebDY/admin/
+-link home:   http://localhost/WebDY/
